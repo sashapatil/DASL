@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="concurrent_ruby">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/Homebrew/Library/Homebrew/vendor/bundle/ruby/2.6.0/gems/concurrent-ruby-1.1.7/lib/concurrent-ruby/concurrent/concurrent_ruby.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

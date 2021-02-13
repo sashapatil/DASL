@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="cask">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/Homebrew/Library/Homebrew/test/support/fixtures/cask/MyFancyPkg.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/Homebrew/Library/Homebrew/test/support/fixtures/cask/caffeine-suite.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/Homebrew/Library/Homebrew/test/support/fixtures/cask/caffeines.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/Homebrew/Library/Homebrew/test/support/fixtures/cask/AppWithEmbeddedBinary.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/Homebrew/Library/Homebrew/test/support/fixtures/cask/caffeines-subdir.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/Homebrew/Library/Homebrew/test/support/fixtures/cask/NestedApp.dmg.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/Homebrew/Library/Homebrew/test/support/fixtures/cask/caffeine.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/Homebrew/Library/Homebrew/test/support/fixtures/cask/AppWithBinary.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/Homebrew/Library/Homebrew/test/support/fixtures/cask/MyFancyApp.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/Homebrew/Library/Homebrew/test/support/fixtures/cask/AppWithManpage.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

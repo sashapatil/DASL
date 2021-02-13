@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="SampleTree2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/opt/java11/libexec/openjdk.jdk/Contents/Home/demo/jfc/SampleTree/src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/opt/java11/libexec/openjdk.jdk/Contents/Home/demo/jfc/SampleTree/SampleTree.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

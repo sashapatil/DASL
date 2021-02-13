@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="FileChooserDemo1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/opt/java11/libexec/openjdk.jdk/Contents/Home/demo/jfc/FileChooserDemo/src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/opt/java11/libexec/openjdk.jdk/Contents/Home/demo/jfc/FileChooserDemo/FileChooserDemo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

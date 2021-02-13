@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="namespace_pkgs5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9/lib/python3.9/test/test_importlib/namespace_pkgs/missing_directory.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9/lib/python3.9/test/test_importlib/namespace_pkgs/top_level_portion1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9/lib/python3.9/test/test_importlib/namespace_pkgs/nested_portion1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

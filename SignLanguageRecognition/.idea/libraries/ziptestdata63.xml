@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ziptestdata6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/opt/python@3.9/Frameworks/Python.framework/Versions/Current/lib/python3.9/test/test_importlib/zipdata02/ziptestdata.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

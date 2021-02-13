@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xxl3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/Cellar/python@3.9/3.9.0/Frameworks/Python.framework/Versions/3.9/share/doc/python3.9/examples/Tools/peg_generator/data/xxl.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

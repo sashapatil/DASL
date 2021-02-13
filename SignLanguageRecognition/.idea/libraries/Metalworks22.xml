@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Metalworks2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/opt/java11/libexec/openjdk.jdk/Contents/Home/demo/jfc/Metalworks/Metalworks.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/opt/java11/libexec/openjdk.jdk/Contents/Home/demo/jfc/Metalworks/src.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

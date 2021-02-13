@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AppleJavaExtensions">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/share/java/Stubs/AppleJavaExtensions.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

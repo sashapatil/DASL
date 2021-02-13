@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/Cellar/protobuf/3.11.4/3.11.4.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/Cellar/protobuf/3.11.4/3.11.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/Cellar/protobuf/3.13.0_1/3.13.0_1.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/Cellar/protobuf/3.13.0_1/3.13.0_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SignLanguageRecognition.iml" filepath="$PROJECT_DIR$/.idea/SignLanguageRecognition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/tools/android/android.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/tools/android/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/com_google_protobuf/benchmarks/benchmarks.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/com_google_protobuf/benchmarks/benchmarks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/com_google_protobuf/com_google_protobuf.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/com_google_protobuf/com_google_protobuf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/com_google_protobuf/java/compatibility_tests/compatibility_tests.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/com_google_protobuf/java/compatibility_tests/compatibility_tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/experimental/delegates/delegates.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/experimental/delegates/delegates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/java/demo/demo.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/java/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/share/doc/doc.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/share/doc/doc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/mediapipe/mediapipe/examples/examples.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/mediapipe/mediapipe/examples/examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/examples/examples1.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/examples/examples1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/flatbuffers/flatbuffers.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/flatbuffers/flatbuffers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/flatbuffers/grpc/flatbuffers-java-grpc/flatbuffers-java-grpc.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/flatbuffers/grpc/flatbuffers-java-grpc/flatbuffers-java-grpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/delegates/flex/flex.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/delegates/flex/flex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/java/src/gen/gen.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/java/src/gen/gen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/var/homebrew/linked/gettext/gettext.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/var/homebrew/linked/gettext/gettext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/opt/gettext/gettext1.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/opt/gettext/gettext1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/Cellar/gettext/gettext2.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/Cellar/gettext/gettext2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/delegates/gpu/gpu.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/delegates/gpu/gpu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/flatbuffers/grpc/grpc.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/flatbuffers/grpc/grpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/bazel_tools/src/java_tools/java_tools.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/bazel_tools/src/java_tools/java_tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/com_google_protobuf/java/lite/lite.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/com_google_protobuf/java/lite/lite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/lite1.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/lite1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/com_google_protobuf/java/util/src/main/main.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/com_google_protobuf/java/util/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/com_google_protobuf/java/core/src/main/main1.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/com_google_protobuf/java/core/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/java/src/main/main2.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/java/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/java/src/main/main3.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/java/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/java/ovic/src/main/main4.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/java/ovic/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/mediapipe/mediapipe/mediapipe.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/mediapipe/mediapipe/mediapipe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/experimental/support/metadata/metadata.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/experimental/support/metadata/metadata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/delegates/nnapi/nnapi.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/delegates/nnapi/nnapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/opt/protobuf/protobuf.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/opt/protobuf/protobuf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/var/homebrew/linked/protobuf/protobuf1.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/var/homebrew/linked/protobuf/protobuf1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/share/protobuf/protobuf2.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/share/protobuf/protobuf2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/opt/protobuf@3.11/protobuf@3.11.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/opt/protobuf@3.11/protobuf@3.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/opt/protobuf@3.13/protobuf@3.13.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/opt/protobuf@3.13/protobuf@3.13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/com_google_protobuf/ruby/ruby.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/com_google_protobuf/ruby/ruby.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/experimental/support/java/support.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/experimental/support/java/support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/java/src/test/test.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/java/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/com_google_protobuf/java/core/src/test/test1.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/com_google_protobuf/java/core/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/java/src/test/test2.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/java/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/com_google_protobuf/java/util/src/test/test3.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/com_google_protobuf/java/util/src/test/test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/java/ovic/src/test/test4.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/java/ovic/src/test/test4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/java/src/testhelper/testhelper.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/java/src/testhelper/testhelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/bazel_tools/third_party/third_party.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/bazel_tools/third_party/third_party.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/bazel_tools/tools/tools.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/bazel_tools/tools/tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/tools/tools1.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/lite/tools/tools1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/bazel_tools/src/tools/tools2.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/bazel_tools/src/tools/tools2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/tools/tools3.iml" filepath="$PROJECT_DIR$/src/bazel-src/external/org_tensorflow/tensorflow/tools/tools3.iml" />
+    </modules>
+  </component>
+</project>

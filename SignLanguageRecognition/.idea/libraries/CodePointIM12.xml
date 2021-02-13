@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="CodePointIM1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/opt/openjdk@11/libexec/openjdk.jdk/Contents/Home/demo/jfc/CodePointIM/CodePointIM.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/opt/openjdk@11/libexec/openjdk.jdk/Contents/Home/demo/jfc/CodePointIM/src.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

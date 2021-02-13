@@ -1,0 +1,43 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "bazel build video_processing_gpu",
+            "type": "shell",
+            "command": "bazel",
+            "args": [
+                "build",
+                "-c",
+                "opt",
+                "--copt",
+                "-DMESA_EGL_NO_X11_HEADERS",
+                "--compilation_mode=dbg",
+                "app:files_to_csv_gpu"
+            ],
+            "group": "build",
+            "problemMatcher": [
+                "$gcc"
+            ]
+        },
+        {
+            "label": "bazel build prediction_cpu",
+            "type": "shell",
+            "command": "bazel",
+            "args": [
+                "build",
+                "-c",
+                "opt",
+                "--copt",
+                "-DMESA_EGL_NO_X11_HEADERS",
+                "--compilation_mode=dbg",
+                "app:prediction_cpu"
+            ],
+            "group": "build",
+            "problemMatcher": [
+                "$gcc"
+            ]
+        }
+    ]
+}

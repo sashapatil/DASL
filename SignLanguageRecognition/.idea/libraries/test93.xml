@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="test9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/Homebrew/Library/Homebrew/test/support/fixtures/test.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

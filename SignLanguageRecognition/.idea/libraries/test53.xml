@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="test5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/Cellar/python@3.9/3.9.0/Frameworks/Python.framework/Versions/3.9/lib/python3.9/test/zipdir.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/Cellar/python@3.9/3.9.0/Frameworks/Python.framework/Versions/3.9/lib/python3.9/test/zip_cp437_header.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

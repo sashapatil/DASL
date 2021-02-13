@@ -1,0 +1,62 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch video_processing_gpu",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/bazel-bin/app/files_to_csv_gpu",
+            "args": [
+                "--calculator_graph_config_file=${workspaceFolder}/graphs/video_processing_gpu.pbtxt",
+                "--input_video_path=/home/datagroup/Videos/SL/input",
+                "--output_video_path=/home/datagroup/Videos/SL/output"
+            ],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "bazel build video_processing_gpu"
+        },
+        {
+            "name": "Launch sign_lang_cpu",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/bazel-bin/app/prediction_cpu",
+            "args": [
+                "--calculator_graph_config_file=${workspaceFolder}/graphs/sign_lang_prediction_cpu.pbtxt"
+            ],
+            "stopAtEntry": true,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "lldb",
+            //"preLaunchTask": "bazel build prediction_cpu"
+        },
+        {
+            "name": "Launch sign_lang_gpu",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/bazel-bin/app/prediction_gpu",
+            "args": [
+                "--calculator_graph_config_file=${workspaceFolder}/graphs/sign_lang_prediction_gpu.pbtxt"
+            ],
+            "stopAtEntry": true,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            //"preLaunchTask": "bazel build prediction_cpu"
+        }
+    ]
+}

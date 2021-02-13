@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="J2Ddemo1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/Cellar/openjdk@11/11.0.8/libexec/openjdk.jdk/Contents/Home/demo/jfc/J2Ddemo/src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/Cellar/openjdk@11/11.0.8/libexec/openjdk.jdk/Contents/Home/demo/jfc/J2Ddemo/J2Ddemo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

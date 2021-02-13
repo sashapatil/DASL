@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Stylepad">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/opt/java11/libexec/openjdk.jdk/Contents/Home/demo/jfc/Stylepad/src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/opt/java11/libexec/openjdk.jdk/Contents/Home/demo/jfc/Stylepad/Stylepad.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

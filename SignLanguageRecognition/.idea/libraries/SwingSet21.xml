@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="SwingSet21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/opt/openjdk@11/libexec/openjdk.jdk/Contents/Home/demo/jfc/SwingSet2/SwingSet2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/opt/openjdk@11/libexec/openjdk.jdk/Contents/Home/demo/jfc/SwingSet2/src.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

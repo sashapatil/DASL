@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="webfiles">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/bazel-src/external/macos_opencv/local/lib/python3.7/site-packages/tensorboard/webfiles.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

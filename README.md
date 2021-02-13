@@ -1,11 +1,13 @@
 ![ASL Translator](mediapipe/docs/images/ASL_Translator_small.png?raw=true "ASL Translator on App")
 =======================================================================
 
-This project is part of a senior design project at Purdue University. My team and I are attempting to create an ASL translator using the Mediapipe Framework. We have so far been able to translator ASL letters. We are going to attempt to interpret words as well in ASL.
+## DASL stands for 'Digital American Sign Language'
+
+This is an engineering community service project at Purdue University. Our team is creating a real-time ASL translator using Google's Mediapipe framework. Partnered with the [Indiana School for the Deaf](https://www.deafhoosiers.com/), we aim to deliver this translator as an iOS application to help younger students with hearing disabilities learn English.
 
 ![Real-time Hand Tracking](mediapipe/docs/images/mobile/hand_tracking_android_gpu.gif)
 
-> "<em>MediaPipe has made it extremely easy to track the hands of the user. We take the data and interpret it into the ASL letter it is likely to be</em>"
+> "<em>MediaPipe has made it extremely easy to track the hands of the user. We take the data and interpret it into the ASL letter or word it is most probable to be</em>"
 
 ## ML Solutions in MediaPipe
 
